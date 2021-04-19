@@ -1,5 +1,5 @@
 # Planetr Demo: demo-tensorflow
-Run TensorFlow through https API
+Run TensorFlow through HTTP API
 
 ## Docker usage on local machine 
 ```
