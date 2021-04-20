@@ -1,3 +1,6 @@
+<div align="center">
+<img src="https://planetr.io/img/logo-github.png"></img>
+</div>
 # Planetr Demo: demo-tensorflow
 Run TensorFlow through HTTP API
 
